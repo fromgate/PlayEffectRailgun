@@ -1,0 +1,5 @@
+name: PlayEffectRailgun
+main: me.fromgate.playeffectrailgun.Railgun
+version: 0.1.0
+author: fromgate, fromgate@gmail.com
+depend: [PlayEffect]
